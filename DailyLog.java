@@ -92,5 +92,8 @@ January 30-February 01, 2023, Monday-Wednesday
     //-Code reviewed LightSaver16's ClinicAppointmentRESTapi
     //-Tried to replicate the API
 
- Test
+ February 02-03, 2023, Thursday
+    //-Learned HTML, CSS
+    //-Watched BroCode's videos about HTML and CSS
+    //-Watched SDPT Solution
 }
