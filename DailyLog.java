@@ -95,5 +95,5 @@ January 30-February 01, 2023, Monday-Wednesday
  February 02-03, 2023, Thursday
     //-Learned HTML, CSS
     //-Watched BroCode's videos about HTML and CSS
-    //-Watched SDPT Solution
+    //-Watched SDPT Solution about HTML and CSS
 }
