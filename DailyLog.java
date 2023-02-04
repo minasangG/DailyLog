@@ -92,8 +92,13 @@ January 30-February 01, 2023, Monday-Wednesday
     //-Code reviewed LightSaver16's ClinicAppointmentRESTapi
     //-Tried to replicate the API
 
- February 02-03, 2023, Thursday
+ February 02-03, 2023, Thursday-Friday
     //-Learned HTML, CSS
     //-Watched BroCode's videos about HTML and CSS
     //-Watched SDPT Solution about HTML and CSS
+
+ February 04, 2023, Saturday
+    //-Refactored and clean some codes on coachapiV2
+    //-Watchcd Mosh's Videos about HTML and CSS
+    //-Tried some 7-kyu Questions on CodeWars
 }
