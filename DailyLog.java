@@ -101,4 +101,6 @@ January 30-February 01, 2023, Monday-Wednesday
     //-Refactored and clean some codes on coachapiV2
     //-Watchcd Mosh's Videos about HTML and CSS
     //-Tried some 7-kyu Questions on CodeWars
+
+ February 05, 2023, Sunday
 }
