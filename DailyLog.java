@@ -102,5 +102,18 @@ January 30-February 01, 2023, Monday-Wednesday
     //-Watchcd Mosh's Videos about HTML and CSS
     //-Tried some 7-kyu Questions on CodeWars
 
- February 05, 2023, Sunday
+ February 05-09 2023, Sunday-Thursday
+    //-Completed Mosh's Part 1 videos about Web Development Fundamentals.
+    // HTML and CSS Basics
+    //-Commenced Part 2 that includes Layout, Box Model, Sizing Elements, Overflowing
+    // Measurement Units, and Positioning
+    //-Discussed Thymeleaf App and how it is integrated to IntelliJ IDE
+    //-Discord calls discussing API, endpoints, and code review
+
+
+ February 10, 2023, Friday
+    //-Watched technical interview samples on youtube
+    //-Finished Mosh's videos about Grid, Flexbpx, Floating Elements, Hiding Elements
+    // and Media Queries
+    //-Started SQL database practice using SQL Lite on LinkedIn learning
 }
